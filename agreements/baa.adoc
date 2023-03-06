@@ -42,24 +42,6 @@ THEREFORE, in consideration of the Parties ' continuing obligations under the Un
 
 .. _Impermissible Uses and Disclosures._ Vendor shall report to Party One 's Primary Contact via phone and email using the contact information set forth below any Use or Disclosure of PHI of which Vendor is aware and which is not in compliance with the terms of this BAA immediately upon becoming aware of or reasonably suspecting the occurrence of such Use or Disclosure, and in no event more than 24 hours after becoming aware of or reasonably suspecting the occurrence of such Use or Disclosure.
 +
-[cols="1,1"]
-[frame=all, grid=cols]
-.HIPAA Compliance Contacts for WakeMed Health & Hospitals
-|===
-|*Primary Contact*
-|*Secondary Contact*
-
-|Ted Lotchin
-|Sallie Bissette
-
-|_Vice President & Chief Compliance and Privacy Officer_
-|_Director, Integrity_ 
-
-|919-350-8241
-|919-350-1081
-
-|=== 
-+
 Vendor shall report to Party One any Security Incident of which it becomes aware immediately upon becoming aware of or reasonably suspecting the occurrence of the Security Incident, and in no event more than 24 hours after becoming aware of or reasonably suspecting the occurrence of the Security Incident. Notwithstanding the foregoing, the Parties acknowledge and agree that Vendor shall not be required to report attempted but unsuccessful Security Incidents that do not result in actual unauthorized access, Use, or Disclosure of PHI, and that this BAA constitutes notice to Party One that such unsuccessful Security Incidents (such as broadcast attacks on Vendor 's firewall, port scans, unsuccessful log-on attempts, or denial of service) may occur periodically.
 +
 Vendor shall report to Party One a Breach of Unsecured Protected Health 
