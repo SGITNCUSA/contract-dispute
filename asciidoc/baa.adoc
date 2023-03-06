@@ -1,0 +1,117 @@
+= VENDOR BUSINESS ASSOCIATE AGREEMENT 
+
+This *Business Associate Agreement* (the *_“BAA”_*) forms a part of the Master Services 
+Agreement (the *_“Underlying Agreement”_*) by and between Party One (*_“Party One”_*) and Party Two (*_“Vendor”_*) (each individually, a *_“Party”_* and collectively, the *_“Parties”_*). This BAA is integral to and is made part of the Underlying Agreement as if fully set forth therein. 
+
+*WITNESSETH:*
+
+WHEREAS, Party One has entered into arrangements with one or more Covered Entities or Business Associates. Pursuant to those arrangements, Party One provides services which require access to Protected Health Information and which cause Party One to act as a Business Associate in accordance with the Health Insurance Portability and Accountability Act and its implementing regulations (“HIPAA”); and 
+
+WHEREAS, Vendor will provide certain services to or on behalf of Party One pursuant to the terms of the Underlying Agreement, the performance of which may require Vendor to create, receive, transmit, or maintain Protected Health Information (the *_“Services”_*); and 
+
+THEREFORE, in consideration of the Parties ' continuing obligations under the Underlying Agreement, compliance with HIPAA, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, and intending to be legally bound, the Parties agree to the provisions of this BAA. 
+
+. *DEFINITIONS.* Except as otherwise defined herein, any and all capitalized terms in this BAA shall have the meanings ascribed to those terms in the HIPAA Rules.
+
+.. *Claims* means all claims, requests, accusations, allegations, assertions, complaints, petitions, demands, suits, actions, proceedings, causes of action, and judgments. 
+
+.. *Costs* means expenses of any kind, including reasonable attorneys' fees, litigation costs, reasonable investigatory costs, costs of providing notice to any person or organization in the event of a Breach of Unsecured Protected Health Information, Security Incident, or unauthorized Use or Disclosure of PHI, and costs of providing consumer protection services to any Individual in the event of a Breach of Unsecured Protected Health Information, Security Incident, or unauthorized Use or Disclosure of PHI, including credit monitoring and identity restoration services. 
+
+.. *HIPAA Rules* means the implementing regulations of HIPAA set forth at 45 C.F.R. Parts 160 and 164, Subpart A, C, D and E. 
+
+.. *Privacy Rule* means the requirements for the Privacy of Individually Identifiable Health Information set forth at 45 C.F.R. Parts 160 and 164, Subparts A and E. 
+
+.. *Security Rule* means the Security Standards for the Protection of Electronic Protected Health Information set forth at 45 C.F.R. Parts 160 and 164, Subparts A and C. 
+
+.. *Protected Health Information* or *“PHI”* shall have the same meaning as the term “protected health information” in 45 C.F.R. § 160.103 and shall include Electronic Protected Health Information (“ePHI”), except limited to that PHI which Vendor receives from or creates, receives, transmits, or maintains on behalf of Party One. 
+
+. *VENDOR OBLIGATIONS*
+
+.. _Permitted Uses and Disclosures._ Except as expressly provided herein or as otherwise Required by Law, Vendor may only Use or Disclose PHI to provide the Services. Vendor expressly agrees that it shall not Use or Disclose PHI other than as permitted by this BAA or Required by Law and that any and all Uses or Disclosures of PHI by Vendor will be done in accordance with the terms of this BAA and applicable provisions of the HIPAA Rules. Vendor shall limit its Use and Disclosure of PHI to the minimum necessary to accomplish the purpose for which the PHI is Used or Disclosed. 
+
+.. _Compliance with HIPAA._ Vendor shall comply with all applicable requirements of HIPAA. Without limiting the foregoing, to the extent that Vendor is to carry out a Covered Entity's obligation under the Privacy Rule, Vendor shall comply with the applicable requirements of the Privacy Rule that apply to the Covered Entity in the performance of such obligation. 
+
+.. _Availability of Books and Records._ Vendor shall cooperate with and make available to the Secretary and Party One its internal practices, books, and records relating to the Use and Disclosure of PHI. 
+
+.. _Subcontractors._ Vendor agrees to ensure that any subcontractors or agents to whom Vendor provides PHI agree in writing at a minimum to the same restrictions and conditions that apply to Vendor with respect to such PHI through this BAA, and pursuant to 45 C.F.R. Part 164, Subpart C, agree to implement appropriate administrative, physical, and technical safeguards designed to protect the confidentiality, integrity, security, and availability of electronic PHI. 
+
+.. _Impermissible Uses and Disclosures._ Vendor shall report to Party One 's Primary Contact via phone and email using the contact information set forth below any Use or Disclosure of PHI of which Vendor is aware and which is not in compliance with the terms of this BAA immediately upon becoming aware of or reasonably suspecting the occurrence of such Use or Disclosure, and in no event more than 24 hours after becoming aware of or reasonably suspecting the occurrence of such Use or Disclosure.
++
+[cols="1,1"]
+[frame=all, grid=cols]
+.HIPAA Compliance Contacts for WakeMed Health & Hospitals
+|===
+|*Primary Contact*
+|*Secondary Contact*
+
+|Ted Lotchin
+|Sallie Bissette
+
+|_Vice President & Chief Compliance and Privacy Officer_
+|_Director, Integrity_ 
+
+|919-350-8241
+|919-350-1081
+
+|=== 
++
+Vendor shall report to Party One any Security Incident of which it becomes aware immediately upon becoming aware of or reasonably suspecting the occurrence of the Security Incident, and in no event more than 24 hours after becoming aware of or reasonably suspecting the occurrence of the Security Incident. Notwithstanding the foregoing, the Parties acknowledge and agree that Vendor shall not be required to report attempted but unsuccessful Security Incidents that do not result in actual unauthorized access, Use, or Disclosure of PHI, and that this BAA constitutes notice to Party One that such unsuccessful Security Incidents (such as broadcast attacks on Vendor 's firewall, port scans, unsuccessful log-on attempts, or denial of service) may occur periodically.
++
+Vendor shall report to Party One a Breach of Unsecured Protected Health 
+Information (“Breach”) pursuant to 45 C.F.R. § 164.410 immediately upon becoming aware of or reasonably suspecting the occurrence of the Breach, and in no event more than 24 hours after the occurrence of the Breach. 
++
+Vendor agrees to promptly take all actions (at Vendor 's sole expense) that are necessary or advisable to correct, mitigate, and prevent recurrence of any Breach, Security Incident, or any Use or Disclosure of PHI by Vendor or its agents or subcontractors in violation of the requirements of this BAA. Vendor shall cooperate fully (at Vendor 's sole expense) with Party One and its designees in all efforts to investigate, in a timely fashion with a level of detail requested by Party One (inclusive of relevant investigative or forensic reports), any Breach, Security Incident, or any Use or Disclosure of PHI by Vendor or its agents or subcontractors in violation of the requirements of this BAA. Vendor agrees to provide Party One a comprehensive summary of the incident and all responsive actions taken upon remediation of the Security Incident at Vendor 's sole expense. 
++
+The Parties shall collaborate on whether it is necessary or advisable to provide notice of any Breach, Security Incident, or any Use or Disclosure of PHI by Vendor or its agents or subcontractors in violation of the requirements of this BAA to any person, governmental entity, the media, or other third party. Party One shall make the final determination of whether any notice will be provided and the notice 's recipients, content, and signatory. 
+
+.. _Safeguards._ Vendor will implement appropriate administrative, technical, and physical safeguards as required by the Security Rule to prevent the Use or Disclosure of PHI other than as permitted in this BAA. Vendor shall submit to evaluations of its administrative, technical, and physical safeguards to be conducted in Party One ' sole discretion, including:
+
+... providing Party One with the opportunity to review its privacy and security policies and procedures,
+
+... providing written responses to questions regarding its privacy and security practices that apply to PHI Vendor receives pursuant to this BAA within 10 days of any request,
+
+... providing Party One with copies of either Vendor 's security certifications or summaries of assessments conducted by a qualified third party, or 
+
+... providing Party One with access to conduct an on-site assessment of Vendor 's administrative, technical, and physical safeguards, compliance with this BAA, and compliance with HIPAA. 
+
+.. _Access._ Vendor agrees that, upon written request from Party One and in any event no more than 10 calendar days following receipt of such written request, to make such PHI available (at Vendor 's sole cost) as required for Party One to meet its obligations related to 45 C.F.R. § 164.524. In the event Vendor receives a request for access PHI directly from an individual, Vendor shall notify Party One of such request within 3 days following receipt of such request.
+
+.. _Amendment._ Vendor agrees that, upon written request from Party One and in any event no more than 10 calendar days following receipt of such written request, to make such PHI available (at Vendor 's sole cost) for amendment and incorporate any amendments to PHI as required for Party One to meet its obligations related to 45 C.F.R. § 164.526. In the event Vendor receives a request to amend PHI directly from an individual, Vendor shall notify Party One of such request within 3 days following receipt of such request. 
+
+.. _Accounting of Disclosures._ Vendor agrees to document Disclosures of PHI as required by HIPAA. Vendor further agrees to provide Party One access to such information required for Party One to meet its obligations related to 45 C.F.R. § 164.528 or any request received directly from an Individual upon written request and in any event no more than 10 calendar days following receipt of such written request from Party One. 
+
+.. _Regulator Requests._ In the event Vendor receives any notification or other communication regarding a compliance review, audit, investigation, complaint, lawsuit, or any other matters related to the Services governed by this BAA from any governmental entity or its designee (including the U.S. Department of Health and Human Services or its Office for Civil Rights), Vendor shall notify Party One in writing immediately and in any event no more than 24 hours following receipt of such notification or communication. 
+
+. *INDEMNIFICATION.* Vendor shall indemnify, defend, and hold harmless Party One for and from any Claims, and reimburse Party One for or bear (at Party One ' option) any Costs, related to:
+
+.. any Breach, Security Incident, unauthorized Use or Disclosure of PHI, or notice provided pursuant to Section II.E; or
+
+.. Vendor 's noncompliance with this BAA. 
+
+. *TERM AND TERMINATION.* 
+
+.. This BAA shall become effective when all Parties have signed it (as indicated by the date associated with the last party to sign) and shall terminate upon the termination or expiration of the Underlying Agreement.  
+
+.. Notwithstanding anything in this BAA or the Underlying Agreement to the contrary, Party One shall have the right to terminate this BAA and the Underlying Agreement immediately upon written notice to Vendor. 
+
+.. Upon termination, Vendor will, at Party One ' option, return or destroy all PHI that Vendor still maintains in any form, inclusive of PHI in the possession of Vendor 's agents or subcontractors, and retain no copies of such information. If such return or destruction is infeasible, Vendor will notify Party One in writing of the legal obligations that make return or destruction infeasible and Vendor shall extend the protections of this BAA to the information and limit further Uses and Disclosures to those purposes that make the return or destruction infeasible. Upon reasonable notice and if requested by Party One, Vendor shall provide Party One with a certification attesting to Vendor 's compliance with this Section IV.C. Vendor shall dispose of PHI in a manner that ensures it is rendered permanently unreadable and unrecoverable. 
+
+. *MISCELLANEOUS.*
+
+.. _Third Party Beneficiaries._ Nothing express or implied in this BAA conveys or is intended to convey any rights, remedies, obligations, or liabilities to any third party other than Party One and Vendor or their respective successors or assigns. 
+
+.. _Amendment._ This BAA may be amended or modified only in a writing signed by the Parties. In addition, in the event a Party believes in good faith that any provision of this BAA fails to comply with the then-current requirements of HIPAA, such Party shall notify the other Party in writing. The Parties agree to take such action as is necessary to amend this BAA from time to time as is necessary for compliance with the requirements of HIPAA. 
+
+.. _Independent Contractor Status._ None of the provisions of this BAA are intended to create, nor will they be deemed to create, any relationship between the Parties other than that of independent parties contracting with each other solely for the purposes of effecting the provisions of this BAA and any other agreements between the Parties evidencing their business relationship. 
+
+.. _Governing Law._ This BAA will be governed by the laws of the State of North Carolina, without regard to principles of conflicts of laws. 
+
+.. _Waiver._ No change, waiver or discharge of any liability or obligation hereunder on any one or more occasions shall be deemed a waiver of performance of any continuing or other obligation, or shall prohibit enforcement of any obligation, on any other occasion. 
+
+.. _Conflict._ The Parties agree that, in the event of a conflict between the provisions of this BAA and the Underlying Agreement or any other documentation of the arrangement(s) pursuant to which Vendor provides Services to Party One, the provisions of this BAA will control to the extent necessary for the Parties to comply with HIPAA. The provisions of this BAA will be interpreted to permit compliance by the Parties with HIPAA. 
+
+.. _Survival._ The provisions of this BAA shall survive termination of this BAA and the Underlying Agreement until such time as Vendor has fully complied with the provisions of Section IV of this BAA. In the event that any provision of this BAA is held by a court of competent jurisdiction to be invalid or unenforceable, the remainder of the provisions of this BAA will remain in full force and effect. 
+
+.. _Interpretation._ In the event of an inconsistency between the provisions of this BAA and mandatory provisions of the HIPAA Rules, the HIPAA Rules shall control.  
+
+*IN WITNESS WHEREOF*, each Party has caused this BAA to be executed by its duly authorized representative on the date stated opposite that Party 's signature. 
