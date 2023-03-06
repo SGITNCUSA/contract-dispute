@@ -1,0 +1,6 @@
+msa = Asciidoctor.load_file 'msa.adoc', safe: :safe
+sow = Asciidoctor.load_file 'sow.adoc', safe: :safe
+baa = Asciidoctor.load_file 'baa.adoc', safe: :safe
+
+html_toc = (Asciidoctor::Converter.create 'html5').convert_outline msa
+puts html_toc

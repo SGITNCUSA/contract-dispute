@@ -1,5 +1,5 @@
 = MASTER SERVICES AGREEMENT
-:stylesheet: ubuntu.css
+:stylesheet: boot-superhero.css
 :toc:
 :toclevels: 2
 :outline-title: Outline

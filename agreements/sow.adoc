@@ -1,4 +1,9 @@
 = STATEMENT OF WORK: 1
+:stylesheet: boot-superhero.css
+:toc:
+:toclevels: 2
+:outline-title: Outline
+:outlinelevels: 5
 
 THIS *MASTER SERVICES AGREEMENT* (this *_“Agreement”_*) is between Party One, (*_“Party One”_*), and Party Two (*_“Contractor”*_*).
 

@@ -1,4 +1,9 @@
 = VENDOR BUSINESS ASSOCIATE AGREEMENT 
+:stylesheet: boot-superhero.css
+:toc:
+:toclevels: 2
+:outline-title: Outline
+:outlinelevels: 5
 
 This *Business Associate Agreement* (the *_“BAA”_*) forms a part of the Master Services 
 Agreement (the *_“Underlying Agreement”_*) by and between Party One (*_“Party One”_*) and Party Two (*_“Vendor”_*) (each individually, a *_“Party”_* and collectively, the *_“Parties”_*). This BAA is integral to and is made part of the Underlying Agreement as if fully set forth therein. 

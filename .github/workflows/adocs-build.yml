@@ -4,27 +4,23 @@ on:
   push:
     branches:
     - main
-
 jobs:
   adoc_build:
-    runs-on: ubuntu-latest
-    name: Asciidoctoring the docs to pretty HTML!
+    runs-on: ubuntu-18.04
+    name: asciidoctor -D agreements --backend=html5 -o index.html -a toc2 agreements/index.adoc 
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-
     - name: Get build container
       id: adocbuild
-      uses: rhpds/asciidoctor-action@master
+      uses: tonynv/asciidoctor-action@master
       with:
-          program: "asciidoctor -D public/ --backend=html5 -o index.html agreements/*.adoc"
-
+          program: "asciidoctor -D agreements --backend=html5 -o index.html agreements/index.adoc"
     - name: Print execution time
       run: echo "Time ${{ steps.adocbuild.outputs.time }}"
-
     - name: Deploy docs to ghpages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GH_TOKEN }}
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_branch: gh-pages
-        publish_dir: ./public/
+        publish_dir: ./
