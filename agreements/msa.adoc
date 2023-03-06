@@ -1,0 +1,102 @@
+= MASTER SERVICES AGREEMENT
+
+THIS *MASTER SERVICES AGREEMENT* (this *_“Agreement”_*) is between Party One, (*_“Party One”_*), and Party Two (*_“Contractor”*_*).
+
+== RECITALS
+
+*WHEREAS*, Party One is in the business of providing consulting service in the field of healthcare informatics, population monitoring, vaccine and influenze surveillance, and general healthcare nalytics; 
+
+*WHEREAS*, Contractor has substantial knowledge and experience in technology systems analysis and development; 
+
+*WHEREAS*, Party One wishes to engage Contractor to provide certain services as described in this 
+Agreement; and 
+
+*WHEREAS*, Contractor wishes to be so engaged by Party One, on the terms and conditions set forth in this Agreement. 
+
+== AGREEMENT
+
+NOW, THEREFORE, in consideration of the premises and mutual obligations stated herein, and other good and valuable consideration, the receipt and sufficiency of which are acknowledged hereby, the parties agree as follows: 
+
+. *Incorporation of Recitals.* The parties agree and warrant to each other that the above Recitals are true and correct, and are hereby incorporated into this Agreement. 
+
+. *Provision of the Services.*
+
+.. _Services._ Party One hereby engages Contractor, and Contractor hereby accepts such engagement to provide the deliverables and services described in this Agreement and set forth under the heading _‘Services: Statements of Work'_ on *_Exhibit A_*, which is attached hereto and incorporated by reference as if fully set forth herein and as may be amended or supplemented from time to time (collectively, the *_“*_Services”_*). In addition, Contractor and Party One may enter into further statements of work (*_“Statement of Work”_* or *_“SOW”_*) pursuant to which Contractor shall provide additional Services to or on behalf of Client. Any such additional SOW is by this reference incorporated in and made a part of, this Agreement provided it is in writing and signed by the parties. Each such additional SOW shall set forth the additional Services to be provided by Contractor, and shall contain any fees to be paid by Party One to Contractor for such additional Services. The term of each Statement of Work shall be as set forth therein or, if no term is specified, shall commence on the Parties' full execution thereof and terminate when the Parties have fully performed their obligations thereunder. Unless a Statement of Work expressly states otherwise, Party One shall have the right to terminate such SOW as set forth in Section 8. Any requested changes to a signed SOW shall be made in writing, and shall be implemented by Contractor, subject to such reasonable adjustments in fee or delivery deadlines as may be mutually agreed by the Parties in good faith.
+
+.. _Performance Standards._ During the Term of this Agreement, Contractor will perform for Party One the Services in a professional, timely, attentive, and diligent manner in the best interests of Party One. Contractor agrees to adhere to Party One's reasonable instructions, feedback, and requests relative to the Services. 
+
+.. _Reports._ Contractor covenants that he/she will provide to Party One regular reports, written and/or oral, of Contractor's activities as and when Party One reasonably requests. 
+
+. *Delivery and Acceptance.* Contractor shall timely deliver each deliverable component of the Services hereunder on or prior to all delivery applicable deadlines as may be set forth for such deliverable in a Statement of Work. If, in Party One's sole reasonable discretion, the Services, in whole or in part, or a deliverable component of the Services, shall fail to meet the performance standards set forth in Section 2.b, Contractor shall re-perform such Services to Party One's satisfaction.
+
+. *Compensation.* _is omitted due to relevance._
+
+.. _Compensation for Services._
+.. _Payments._
+.. _Invoices._
+.. _Expenses and Taxes._
+
+. *Initial Term, Renewal Term(s), and Survival.* This Agreement will become effective when all parties have signed it (as indicated by the date associated with the last party to sign), and unless terminated earlier in accordance with Section 8 below, shall remain in effect for an initial term of twelve (12) months (the *_“Initial Term”_*). This Agreement will automatically renew for successive one-year terms (each a *_“Renewal Term”_*), until and unless either party delivers written notice to the other of such party's election not to renew this Agreement, which notice must be delivered at least thirty (30) days prior to the end of the then-current term. The Initial Term and any and all Renewal Terms shall be referred to herein collectively as the *_“Term.”_* Without limitation, Contractor's obligations arising out of the Related Agreements, as well as all representations and warranties made by Contractor herein, shall survive termination or expiration of this Agreement for any reason. 
+
+. *Termination.* This Agreement may be terminated only as follows: 
+
+.. _Termination Not For Cause._ After the first three (3) months of the Initial Term, either party may terminate this Agreement or any Statement of Work at will, with or without cause, upon thirty (30) days advance written notice to the other party. Any such termination shall not affect Contractor's right to be paid compensation for Services in accordance with this Agreement relative to Services provided by Contractor prior to the effective date of such termination.
+
+.. _Termination for Cause._ Either party may immediately terminate this Agreement or any Statement of Work upon written notice to the other Party in the event the other party: 
+
+... Commits a material breach of this Agreement or any Statement of Work and fails to cure such breach within ten (10) days after receiving written notice of such material breach from the other party;
+
+... Becomes insolvent or admits its inability to pay its debts generally as they become due; 
+
+... Becomes subject, voluntarily or involuntarily, to any proceeding under any domestic or foreign bankruptcy or insolvency law, which is not dismissed or vacated within forty-five (45) days after filing; 
+iv.	Is dissolved or liquidated or takes any corporate action for such purpose; 
+
+... Makes a general assignment for the benefit of creditors; or 
+
+... Has a receiver, trustee, custodian or similar agent appointed by order of any court of competent jurisdiction to take charge of or sell any material portion of its property or business. 
+
+... For example, and without limitation, it is agreed and understood that each of the following shall constitute a material breach of this Agreement:
+
+.... failure to provide the Services in a timely, professional, attentive, and diligent manner;
+
+.... any breach by Contractor of a material obligation set forth in a Related Agreement;
+
+.... any breach of a warranty made by Contractor herein; and
+
+.... any proceeding or investigation is initiated relative to Contractor that, in Party One's discretion, may result in harm to Party One on account of the relationship between Party One and Contractor hereunder. Any such termination by Party One for cause shall immediately relieve Party One of any obligation to pay Contractor compensation for Services pursuant to this Agreement. 
+
+. *Ownership of Intellectual Property.* It is the intent of both Party One and Contractor that Party One own outright and forever, free from any claim by Contractor, the work product resulting from all Services rendered by Contractor pursuant to this Agreement. As such, it is hereby mutually agreed and promised that all rights in and to written materials, writings, graphics, trademarks, service marks, ideas, inventions, discoveries, data, designs, innovations and improvements (whether or not patentable and whether or not copyrightable) which are made, conceived, reduced to practice, created, written, designed, or developed by Contractor, solely or jointly with others, during the Term of this Agreement if related to Party One's business and generated in the course of Contractor providing Services to Party One hereunder (collectively, *_“Works”_*) shall be the sole property of Party One. All such Works shall be created by Contractor on a “work made for hire” basis in accordance with the United States Copyright Act. Contractor hereby transfers and assigns to Party One, free and clear of all liens, claims, and encumbrances, all Works (other than those qualifying for “work made for hire” treatment) and any and all related patents, designs, copyrights, trademarks, service marks, trade dress, trade names, and other industrial and intellectual property rights and applications therefore, in the United States and elsewhere. Upon the request of Party One and at Party One's expense, Contractor shall execute such further assignments, documents, and other instruments, and take any other actions, as may be necessary or desirable to fully and completely assign all Works and related intellectual property rights to Party One. Contractor hereby waives all claims to moral rights in any Works or related intellectual property rights. 
+
+. *Incorporation of Related Agreements.* The parties are entering, or have entered, into the following additional agreements, (collectively the *_“Related Agreements”_*): (i) Subcontractor Business Associate Agreement of even date herewith; and (ii) a Confidentiality & Non-Disclosure Agreement dated November 16, 2022. It is expressly agreed that the terms of the Related Agreements (a) shall survive execution of this Agreement, and (b) are hereby incorporated by reference as if set forth fully herein. 
+
+. *Representations and Warranties by Contractor.* Contractor represents and warrants to Party One that: (i) Contractor possesses the requisite degree of skills, knowledge, expertise, experience, and man-power to perform the Services for Party One; (ii) neither the execution, delivery nor performance of this Agreement by Contractor will conflict with or violate any agreement, understanding, instrument, law, rule or regulation or any order, judgment or decree to which Contractor is a party or by which Contractor may otherwise be bound; (iii) Contractor will comply fully with all applicable laws and regulations regarding labor, employment, health and workplace safety, and fair business practices; and (iv) Contractor has, and for the full duration of the Term shall maintain, one or more policies of general liability insurance at levels (both per occurrence and in the aggregate) sufficient to satisfy Consultant's foreseeable liabilities to Party One hereunder and pursuant to the Related Agreements, including—without limitation—Contractor's indemnification obligations. The foregoing representations and warranties shall survive the expiration or termination of this Agreement for any reason. Contractor agrees to indemnify, defend, save and hold Party One and Party One's members, managers, employees, representatives and agents harmless from any and all claims, demands, suits, actions, causes of actions, attorneys' fees, expenses and costs of any nature arising out of any breach, or alleged breach, by Contractor of any of the foregoing representations and warranties. 
+
+. *Relationship to the Parties.* The relationship of the parties under this agreement shall at all times remain one of independent contractors. Neither of the parties, nor their respective employees, contractors or companies, shall be considered employees, joint venturers, partners, or agents of the other party. The relationship of the parties under this Agreement is strictly contractual and shall not give rise to any fiduciary relationship. Contractor's activities will not be directly supervised and there are no fixed or set hours for performance of work hereunder. Nothing in this Agreement shall be interpreted to prevent Party One from purchasing similar services from others. Contractor shall not represent to any third party that Contractor is authorized to enter into any contract for or on behalf of Party One, nor shall Contractor otherwise act to bind Party One in any manner whatsoever, without Party One's prior written consent. 
+
+. *Tax Reporting.* Each party is responsible for complying with all applicable tax reporting and documentation requirements. Each party agrees to prepare and deliver to the other all documents reasonably requested by the other—including, without limitation, IRS W-9 and 1099 forms—in connection with tax reporting and documentation requirements. 
+
+. *Non-Waiver.* No failure or delay by Party One in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude the exercise of any other right, power or privilege hereunder. 
+
+. *Amendments.* No purported change, modification, or amendment to this Agreement shall be valid or binding upon the parties unless such change or modification is in writing and signed by all of the parties hereto. 
+
+. *Successors and Assigns.* This Agreement may not be assigned or transferred by either party, absent the other party 's prior written consent, which consent shall not be unreasonably withheld, delayed or conditioned. 
+
+. *Subcontractors.* Contractor shall not, without the prior written approval of Party One, engage any third party to perform Services (including to create any work product in connection with the Services) hereunder. Party One 's approval of any such third party (each approved third party, a *_“Permitted Subcontractor”_*) shall not relieve Contractor of its representations, warranties, or obligations under the Agreement. Without limiting the foregoing, Contractor shall: 
+
+.. be responsible and liable for the acts and omissions of each such Permitted Subcontractor to the same extent as if such acts or omissions were by Contractor or its employees; 
+
+.. be responsible for all fees and expenses payable to, by, or on behalf of each Permitted Subcontractor in connection with this Agreement, including, if applicable, withholding of income taxes and the payment and withholding of social security and other payroll taxes, unemployment insurance, workers ' compensation insurance, and disability benefits; and 
+
+.. prior to the provision of Services or creation of work product by any Permitted Subcontractor, obtain from such Permitted Subcontractor confidentiality, work-for-hire, and intellectual property rights assignment agreements, in form and substance reasonably acceptable to Party One, giving Party One rights consistent with those set forth in Section 9 hereof, and, upon request, provide Party One with a fully-executed copy of each such agreement. 
+
+. *Notices.* Any notice required to be delivered by one party to the other in accordance with this Agreement shall be deemed properly sent and received when hand-delivered to the recipient, when emailed to the recipient with delivery confirmation, when actually received if sent by overnight delivery service or courier, or three days after posting if sent by first class mail to the recipient 's mailing address set forth below the recipient 's signature below (or to such other mailing address requested in writing by the receiving party after the effective date hereof). 
+
+. *Entire Agreement.* This Agreement and the Related Agreements, which are incorporated by reference herein, constitutes the entire understanding between the parties with respect to its subject matter and supersedes all prior agreements and understandings, written or oral, with respect to the same subject matter. 
+
+. *Governing Law & Exclusive Venue.* This Agreement shall be governed by the laws of the State of North Carolina, without regard to conflict of laws provisions thereof. Any dispute between the parties related to this Agreement, its execution, validity, meaning or performance thereunder, shall be submitted exclusively to the General Court of Justice of North Carolina, Bladen County Superior Court, and the parties irrevocably consent to said jurisdiction, waiving any defenses thereto. 
+
+. *Severability of Clauses.* If any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, such holding shall not invalidate any of the other provisions of the Agreement. The parties intend that any such provision shall be severed from the Agreement and that the Agreement shall be enforced to the full extent permitted by law. 
+
+. *Captions.* The titles of the Sections are included for convenience only, and in no way limit, expand or otherwise affect the meaning of this Agreement. 
+
+. *Execution in Counterparts.* This Agreement may be executed in several counterparts and all such counterparts will collectively comprise the Agreement. Facsimile copies and emailed copies (by scanned image attachment) will constitute original signatures. 
