@@ -19,9 +19,6 @@ jobs:
       with:
           program: "asciidoctor -D public/ --backend=html5 -o index.html agreements/*.adoc"
 
-    - name: Copy Image folder to public/ dir
-      run: sudo cp -r docs/images/ public/images
-
     - name: Print execution time
       run: echo "Time ${{ steps.adocbuild.outputs.time }}"
 
